@@ -1,0 +1,3 @@
+[submodule "sparse-autoencoders/examples/Sparse-Autoencoder-example-MNIST"]
+	path = sparse-autoencoders/examples/Sparse-Autoencoder-example-MNIST
+	url = git@github.com:friti12/Sparse-Autoencoder-example-MNIST.git
